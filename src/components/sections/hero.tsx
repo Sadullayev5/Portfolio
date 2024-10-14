@@ -18,7 +18,7 @@ const HeroSection = () => {
               <span className="inline-block animate-waving-hand">👋</span>
             </Typography>
             <Typography>
-           I am a junior front-end developer (React.js), focused on building fast, accessible, visually appealing, and responsive web experiences. While I don't have much experience yet, I am deeply passionate about web development and excited to continue growing and learning in this field.
+           I am a junior front-end developer (React.js), focused on building fast, accessible, visually appealing, and responsive web experiences. While I don&apos;t have much experience yet, I am deeply passionate about web development and excited to continue growing and learning in this field.
             </Typography>
           </div>
           <div className="flex flex-col gap-2">
